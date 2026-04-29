@@ -1,0 +1,7 @@
+interface:
+  display_name: "Media List Builder"
+  short_description: "Build tailored media lists."
+  default_prompt: "Use $media-list-builder to build a prompt-specific media list, ask for the number of names if I did not include it, confirm the proposed reporters with me, and then enrich approved names with contact details."
+
+policy:
+  allow_implicit_invocation: true
